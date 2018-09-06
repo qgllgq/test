@@ -5,3 +5,5 @@ eureka:
 girl:
   name: das
   age: 23
+env:
+  dev
